@@ -140,3 +140,8 @@ nav:
   - Sessions:
     - Sessions/README.md
     - Logistic Regression and Gradient Descent: 07_Logistic_Regression_and_Gradient_Descent\README.md
+    - Support Vector Machines: 08_Support_Vector_Machines\README.md
+    - Neural Networks: 09_Neural_Networks\README.md
+    - Dimensionality Reduction: 10_Dimensionality_Reduction\README.md
+    - Clustering: 11_Clustering\README.md
+    - Recap: 12_Recap\README.md
