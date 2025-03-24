@@ -1,0 +1,151 @@
+/* Dark mode as default */
+[data-md-color-scheme="slate"] {
+  --md-slate-bg-color: #121212; /* Main background */
+  --md-slate-fg-color: #378856; /* Secondary text */
+  
+  /* Primary and accent colours */
+  --md-primary-fg-color: #31473A; /* Primary colour */
+
+  /* Custom link colour */
+  --md-link-fg-color: #91c776;
+
+
+  /* Apply custom link colour to linkable elements */
+  a {
+      color: var(--md-link-fg-color); /* Use the custom link colour */
+    }
+  a:hover {
+    text-decoration: underline; /* Optional: Remove underline on hover */
+  }
+
+  /* Code styling */
+  --md-code-bg-color: #1E1E1E; /* Code block background */
+  --md-code-fg-color: #A8D5BA; /* Code text colour */
+  --md-code-hl-color: #FFC107; /* Highlighted code colour */
+
+  /* Admonition (alerts, notes) */
+  --md-admonition-fg-color: #FFFFFF;
+  --md-admonition-bg-color: #31473A;
+  
+  /* Footer styling */
+  --md-footer-bg-color: #121212; /* Footer background */
+  --md-footer-fg-color: #A8D5BA; /* Footer text */
+
+  ul ::marker {
+    color: #91c776; /* Replace with your desired color */
+  }
+  
+  ol ::marker {
+    color: #91c776; /* Replace with your desired color */
+  }
+}
+
+/* light mode as */
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #dcddd3 ; /* Main background */
+
+  /* Primary and accent colours */
+  --md-primary-fg-color: #31473A; /* Primary colour */
+
+  /* Custom link colour */
+
+
+  a:hover {
+    text-decoration: underline; /* Optional: Remove underline on hover */
+  }
+
+  /* Admonition (alerts, notes) */
+  --md-admonition-fg-color: #FFFFFF;
+  --md-admonition-bg-color: #31473A;
+  
+  /* Footer styling */
+  --md-footer-bg-color: #121212; /* Footer background */
+  --md-footer-fg-color: #A8D5BA; /* Footer text */
+
+  ul ::marker {
+    color: #31473A; /* Replace with your desired color */
+  }
+  
+  ol ::marker {
+    color: #31473A; /* Replace with your desired color */
+  }
+}
+.fa-circle-info {
+  color: #91c776;
+}
+.fa-vector-square {
+  color: #91c776;
+}
+
+.fa-book-open {
+  color: #91c776;
+}
+
+.fa-wave-square   {
+  color: #91c776;
+}
+
+.center-table {
+  text-align: center;
+}
+.md-typeset .center-table :is(td,th):not([align]) {
+  text-align: initial; /* Reset alignment for table cells */
+}
+
+/* Change the border color for the "answer" admonition */
+.md-typeset .admonition.answer,
+.md-typeset details.answer {
+  border-color: #91c776; /* Green border for "answer" */
+  outline: none; /* Remove any focus outline */
+  box-shadow: none; /* Remove any default box shadow */
+}
+
+/* Change the background color of the title for "answer" admonitions */
+.md-typeset .answer > .admonition-title,
+.md-typeset .answer > summary {
+  background-color: rgba(43, 155, 70, 0.1); /* Light green background for title */
+  outline: none; /* Remove any focus outline */
+  box-shadow: none; /* Remove any default box shadow */
+}
+
+/* Change the icon color for "answer" admonitions */
+.md-typeset .answer > .admonition-title::before,
+.md-typeset .answer > summary::before {
+  background-color: #91c776; /* Green icon color */
+  -webkit-mask-image: var(--md-admonition-icon--success); /* Default icon */
+          mask-image: var(--md-admonition-icon--success);
+}
+
+/* Change color for collapsible indicator in "answer" */
+.md-typeset details[open].answer summary::after,
+.md-typeset details.answer summary::after {
+  color: #91c776; /* Green for collapsible indicator */
+}
+
+/* Change the border color for the "question" admonition */
+.md-typeset .admonition.question,
+.md-typeset details.question {
+  border-color: #91c776; /* Green border for "question" */
+  outline: none; /* Remove any focus outline */
+  box-shadow: none; /* Remove any default box shadow */
+}
+
+/* Change the background color of the title for "question" admonitions */
+.md-typeset .question > .admonition-title,
+.md-typeset .question > summary {
+  background-color: rgba(43, 155, 70, 0.1); /* Light green background for title */
+  outline: none; /* Remove any focus outline */
+  box-shadow: none; /* Remove any default box shadow */
+}
+
+/* Change the icon color for "question" admonitions */
+.md-typeset .question > .admonition-title::before,
+.md-typeset .question > summary::before {
+  background-color: #91c776; /* Green icon color */
+}
+
+/* Change color for collapsible indicator in "question" */
+.md-typeset details[open].question summary::after,
+.md-typeset details.question summary::after {
+  color: #91c776; /* Green for collapsible indicator */
+}
