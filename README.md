@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">Machine Learning Course - Spring 2025</h1>
-    <p align="center">Repository for <a href="https://www.via.dk/">SMP1-S25</a> at VIA</p> <!-- NOTE: MISSING LINK -->
+    <p align="center">Repository for <a href="https://www.via.dk/">MAL1-S25</a> at VIA</p> <!-- NOTE: MISSING LINK -->
     <p align="center"><strong><a href="https://rbrooksdk.github.io/MAL1_25">Checkout the homepage!</a></strong></p>
 </p>
 
