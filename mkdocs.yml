@@ -139,3 +139,4 @@ nav:
   - Home: README.md
   - Sessions:
     - Sessions/README.md
+    - Logistic Regression and Gradient Descent: 07_Logistic_Regression_and_Gradient_Descent\README.md
