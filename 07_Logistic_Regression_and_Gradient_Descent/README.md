@@ -1,7 +1,6 @@
 <h1 align="center">07 Logistic Regression and Gradient Descend</h1>
 
 ## Material:
-<!-- NOTE: missing materials -->
 Section about "Logistic Regression" in Ch 4, pp. 136 - 146 <!-- NOTE: probably something more than that -->
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ehw3HAQLiH5OuSB14MmZb5gBZxQvOeMDPqkRz7Jvg2hBjw?e=ADVcEv)
