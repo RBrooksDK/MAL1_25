@@ -70,6 +70,7 @@
     color: #31473A; /* Replace with your desired color */
   }
 }
+/* NOTE: Could be merged into a single class for better maintainability */
 .fa-circle-info {
   color: #91c776;
 }
@@ -82,6 +83,10 @@
 }
 
 .fa-wave-square   {
+  color: #91c776;
+}
+
+.fa-laptop-code {
   color: #91c776;
 }
 
