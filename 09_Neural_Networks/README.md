@@ -1,10 +1,13 @@
-<h2 align="center">09 Introduction to Neural Networks</h2>
+<h1 align="center">09 Introduction to Neural Networks</h1>
 
 ## Preparation
 
-Ch 10 + 11 until (but not including) “Faster Optimizers” (pp. 357 – 378)
+Ch 10 + 11 until (but not including) “Batch Normalization” (pp. 357 – 367). Feel free to ignore the mathematical definitions of the activation functions.
 
 For background and as reference: Ch 12
+
+**Optional:** Look at the [3Blue1Brown videos](#video-lectures) on neural networks. They are not required, but they are a good introduction to the topic and will help you understand the material better. The videos are very well made and provide a great overview of the concepts.
+
 
 ## Material
 
@@ -31,7 +34,7 @@ In addition to this, Tensorflow 2 requires you to install this visual studio pac
 
 This lecture covers the fundamental aspects of neural networks. 
 
-### Key Concepts <!-- NOTE: I (funnily enough) AI-generated this and deleted some stuff already mentioned in previous sessions. Check if it's valid -->
+### Key Concepts
 
  - Artificial Neurons
  - Perceptrons
