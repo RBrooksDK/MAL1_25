@@ -4,6 +4,14 @@
 
 Chapter 1 + the pdf "kNN"
 
+[kNN (PDF)](kNN.pdf)
+
+[Lesson 1 (PDF)](Lesson1IntroductiontoEverythingX.pdf)
+
+[Titanic (CSV)](titanic.csv)
+
+[Titanic (Jupyter Notebook)](Titanic.ipynb)
+
 ## Session Description
 
 We will talk about what machine learning is and the types of problems we work with. We will also introduce the first algorithm: k-Nearest Neighbor.
