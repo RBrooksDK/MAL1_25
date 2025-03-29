@@ -12,7 +12,7 @@ Ch 1 + "kNN" (see Session material below) +  (Section about "Logistic Regression
 
 This lecture will cover basic machine learning methodology, the logistic regression algorithm, and the k Nearest Neighbors algorithm.
 
-### Key Concepts
+### Key Concepts <!-- NOTE: AI-generated -->
 
 - Machine Learning (ML) overview
 - Supervised vs. unsupervised learning
