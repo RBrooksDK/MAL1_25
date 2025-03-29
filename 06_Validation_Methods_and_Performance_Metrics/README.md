@@ -1,4 +1,4 @@
-<h1 align="center">00 Title</h1>
+<h1 align="center">06 Validation Methods and Performance Metrics</h1>
 
 ## Preparation
 
