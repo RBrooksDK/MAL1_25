@@ -139,6 +139,12 @@ nav:
   - Home: README.md
   - Sessions:
     - Sessions/README.md
+    - 01 Introduction to Machine Learning: 01_Introduction/README.md
+    - 02 Mathematical Background: 02_Mathematical_Background/README.md
+    - 03 Regression: 03_Regression/README.md
+    - 04 Data Preparation: 04_Data_Preparation/README.md
+    - 05 Tree Based Models: 05_Tree_Based_Models/README.md
+    - 06 Validation Methods and Performance Metrics: 06_Validation_Methods_and_Performance_Metrics/README.md
     - 07 Logistic Regression and Gradient Descent: 07_Logistic_Regression_and_Gradient_Descent/README.md
     - 08 Support Vector Machines: 08_Support_Vector_Machines/README.md
     - 09 Neural Networks: 09_Neural_Networks/README.md
