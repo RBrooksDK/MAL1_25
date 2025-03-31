@@ -11,7 +11,7 @@ For background and as reference: Ch 12
 
 ## Material
 
-Session material: In this folder
+[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EplJlH6x_VlFsv_pMU417EoBfvgOZxsjpKCewWyrDvPSrA?e=YI9s2L)
 
 You will need to install tensorflow and (optionally) tensorboard before this lesson. Specifically, you need tensorflow 2.0 or higher to be able to use all the functionalities in the notebooks. If you don't know whether you have these packages installed, you can open an anaconda prompt and type
 
