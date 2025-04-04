@@ -6,29 +6,24 @@ Ch 8
 
 ## Material
 
-[Session Notes X](https://drive.google.com/file/d/1CJYGkrY6XJK7vbam5CiYXnxnn218l9a7/view?usp=sharing)
+[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ejs8_uSSIJRFp4LkOr7Io7EB6YasdVaxRR0MFhOS9cXB8w?e=7OFxdn)
 
-[Session Notes Y](https://drive.google.com/file/d/17353SODYa74CPSgZaA_OpbcM861bafLd/view?usp=sharing)
+### Online Resources
+- [Steve Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv&si=q7-RepDmv-fnb5PH) has made a whole lecture series about the SVD. This is overkill but maybe check out the the Overview and the videoes about PCA.
 
-[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ep413YiQGxpMrHsSK7tdI1kB0YO9X1N8_Zd53x3B_c3xHA?e=eFwtTP)
+ - For a very appealing and visual explanation of SVD, you should take a look at [Visual Kernel](https://www.youtube.com/watch?v=vSczTbgc8Rc&list=PLWhu9osGd2dB9uMG5gKBARmk73oHUUQZS&index=4)'s video on the topic.
 
-[Steve Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv&si=q7-RepDmv-fnb5PH) has made a whole lecture series about the SVD. This is overkill but maybe check out the the Overview and the videoes about PCA.
+Useful Resources on t-SNE (not curriculum related, but its useful to know about):
 
-For a very appealing and visual explanation of SVD, you should take a look at [Visual Kernel](https://www.youtube.com/watch?v=vSczTbgc8Rc&list=PLWhu9osGd2dB9uMG5gKBARmk73oHUUQZS&index=4)'s video on the topic.
+ - [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 
-Useful Resources on t-SNE:
+ - [openTSNE](https://opentsne.readthedocs.io/en/stable/)
 
-[How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
-
-[openTSNE](https://opentsne.readthedocs.io/en/stable/)
-
-[Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
+ - [Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
 
 I've also added the original research papers leading up to t-SNE (not part of syllabus, just there for reference)
 
 If you want a really in depth introduction to t-SNE, look [here](https://www.youtube.com/watch?v=MnRskV3NY1k)
-
-And as always, Alexander Ihler is gold.
 
 If you missed the session in linear algebra, I recommend checking out some of the resources mentioned above.
 
@@ -46,3 +41,5 @@ This lecture covers **unsupervised machine learning** algorithms. We discuss how
 - Use principle component analysis (PCA) to reduce the dimensions of your dataset
 - Describe how PCA can be used for clustering analyses
 - Create 2-dimensional clustering-plots in python using PCA and t-SNE
+
+Note that t_SNE is not curriculum related, but it is a very useful tool for visualizing high-dimensional data. We will not ask you about it in the exam.
