@@ -18,31 +18,32 @@ Session material: [In this folder](). <!-- NOTE: Link needed, I put the files in
 
 [Regression - Hitters (Jupyter Notebook)](RegressionHitters.ipynb)
 
+[Lecture](Lecture3Regression.pdf)
+
 ## Session Description
 
 Today, we are going to look at regression algorithms, where instead of predicting a class you predict some continuous variable.
 
-We also discuss (again) what is meant by “regularization” and consider the R² performance metric for regression. Last but not least we will introduce one of the most important concepts in Machine Learning: Gradient Descent.
+We also discuss what is meant by “regularization” and consider the R² performance metric for regression. 
 
 ### Key Concepts
 
-- Ordinary Least Squares (OLS) regression
-- Ridge regression
+- Ordinary Least Squares (OLS) regression 
+- Ridge regression 
 - Lasso regression
 
 ### Learning Objectives
 
-- Explain what is meant by "regression" and in which contexts to apply it
-- Explain the following linear regression models, their strengths and weaknesses, and apply them in python:
-  - Ordinary Least Squares (OLS) regression
-  - Ridge regression
-  - Lasso regression
-  - Elastic Net Regression
-- Explain what is meant by the term "regularization" in an ML-context
-- Describe what is meant by "bias" and "variance" in relation to ML-algorithms
-- Explain the R²-metric for evaluating the performance of a linear regression algorithm
+- Explain what is meant by "regression" and in which contexts it applies 
+- Explain the following linear regression models, their strengths and weaknesses, and apply them in python: 
+    - Ordinary Least Squares (OLS) regression 
+    - Ridge regression 
+    - Lasso regression 
+    - Elastic Net Regression 
+- Explain what is meant by the term "regularization" in an ML-context 
+- Describe what is meant by "bias" and "variance" in relation to ML-algorithms 
+- Explain the R²-metric for evaluating the performance of a linear regression algorithm 
 - Explain the MSE metric
-- Explain how regression models can be trained
 
 ## Video Lectures
 
