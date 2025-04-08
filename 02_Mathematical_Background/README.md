@@ -2,11 +2,13 @@
 
 ## Preparation
 
-
+<!-- NOTE: missing -->
 
 ## Material
 
 [Session Notes](drive.google.com/file/d/1s8qb0pno7WZ34Cq5a76rmpxW10ObSjwv/view?usp=sharing)
+
+[Book](Math_for_ML.pdf) <!-- NOTE: this was on itslearning, I wasn't sure where exactly to put it -->
 
 ## Session Description
 
@@ -28,3 +30,6 @@ In today's session we look at some of the math behind Machine Learning. Literatu
 - Learn about the application of linear algebra techniques, such as Singular Value Decomposition, in processing and optimizing machine learning data and models.
 
 ## Video Lectures
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vSczTbgc8Rc?si=7UFK89SCbLxQ_OrP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uZeDTwWcnuY?si=koIRduRbiQi4ztpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
