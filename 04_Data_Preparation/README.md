@@ -24,18 +24,6 @@ Chapter 2, page 60-87.
 
 This lecture will cover the basics of how to prepare a data set for machine learning. 
 
-### Key Concepts <!-- NOTE: Missing -->
-
-- Feature selection
-- Feature engineering
-- Missing value handling
-- Outlier detection
-- Boxplot usage
-- Dummy variable creation
-- Scaling
-- Normalization
-- Bag-of-words representation
-
 ### Learning Objectives
 
 - Know how to approach features and when to drop and/or engineer them for your specific purposes 
