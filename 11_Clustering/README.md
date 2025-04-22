@@ -6,7 +6,7 @@ Ch 9
 
 ## Material
 
-Session material: [In this folder]() <!-- NOTE: link needed for session material -->
+Session material: [In this folder](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EmJqIU53h3dNhlt56W038U4BSRFAkoAsutb218Hdm_sHPA?e=PzoSWn)
 
 ## Session Description
 
