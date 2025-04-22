@@ -8,6 +8,8 @@ Ch 9
 
 Session material: [In this folder](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EmJqIU53h3dNhlt56W038U4BSRFAkoAsutb218Hdm_sHPA?e=PzoSWn)
 
+test
+
 ## Session Description
 
 This lecture covers **clustering** algorithms.
