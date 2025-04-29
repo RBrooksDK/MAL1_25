@@ -1,5 +1,7 @@
 <h1 align="center">12 Exam Preparation and Q/A</h1>
 
+[Session Material:](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EhbHH9Y1Oz5BmCn0Ws-pRL8BL8SKIP1oKQ0C43wA6behGQ?e=ShMUpN)
+
 Please read the following exam description:
 
 ---
